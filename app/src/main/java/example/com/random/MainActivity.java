@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         btnOne.setText(Integer.toString(rand.nextInt(100)));
         btnTwo.setText(Integer.toString(rand.nextInt(100)));
 
-        btn
+        
 
     }
 }
